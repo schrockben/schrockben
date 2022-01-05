@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @schrockben
-- 👀 I’m interested in ... Learnign to Code
+- 👀 I’m interested in ... Learning to Code
 - 🌱 I’m currently learning ... CS, HTML, Python
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... schrock.ben@gmail.com
